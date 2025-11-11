@@ -3,4 +3,4 @@ This benchmark focuses on the interpretability of Large Vision-Language Models (
 1. Original images and their corresponding Visual Question Answering (VQA)
 2. Edited versions of the original images with counterfactual objects introduced, along with their corresponding VQA
 
-! [示例]Bench/case/case.png
+! [示例](case/case.png)
